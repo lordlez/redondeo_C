@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1648499909 source:d:\c\redondeo\redondeo\funciones.c
+	"header.h"
+
+1648493529 d:\c\redondeo\redondeo\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1648492388 source:d:\c\redondeo\redondeo\main.c
+	"header.h"
+
